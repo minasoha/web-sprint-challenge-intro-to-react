@@ -12,9 +12,7 @@ const App = () => {
 
   const [ searchField , setsearchfield ] = useState('');
   const [ results, setResults ] = useState([]);
-  const [ next, setNext ] = useState(null);
-  const [ previous, setPrevious ] = useState(null);
-
+  
   
 
 
